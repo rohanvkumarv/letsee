@@ -1,5 +1,5 @@
 import axios from 'axios'
-
+import './app.css'
 const AuthPage = (props) => {
     const onSubmit = (e) => {
       e.preventDefault();
